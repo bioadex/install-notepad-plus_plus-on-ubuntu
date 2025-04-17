@@ -1,0 +1,23 @@
+How to install Notepad++ on Ubuntu 22.04 
+
+Notepad ++ is one of the popular editor on windows but this can be install on Ubuntu 
+
+first:  sudo apt update 
+
+second :  sudo apt upgrade 
+
+third: sudo apt install snapd   #### if is not installed on your ubuntu 
+
+fourth: install wine with this will make it possible to install windows apps on Ubuntu 
+sudo apt install wine 
+
+fifth:  sudo snap install notepad-plus-plus 
+
+final after this installation it will take some time to open the Notepad++ 
+
+But this is just for the first time after this all will open fine and smooth. 
+
+You can search for Notepad++ on Ubuntu. 
+
+Enjoy You and Be Happy. 
+
